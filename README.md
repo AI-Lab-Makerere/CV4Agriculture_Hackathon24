@@ -10,3 +10,16 @@ For classfication, participants will develop models to predict if a maize leaf i
   2. MLB -  Images show leaves affected by [Maize Leaf Blight](https://lfl.bayern.de/ips/blattfruechte/050760/index.php#:~:text=First%20symptoms%20on%20maize%20plants,green%20to%20light%20brown%20lesions.)
   3. MLN -  Images show leaves affected by [Maize Lethal Necrosis](https://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.119663)
   4. MSV - Images show leaves affected by [Maize Streak Virus](https://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.32620)
+
+<img src="https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/resources/images/maize.png"/>
+
+For the object detection task, participants will develop models to detect various stages of the cocoa fruit in the coccoa tree images:
+  1. Mature_Unripe - Images with mature but not yet ripe cocoa pods
+  2. Immature - Images with Cocoa pods that are still growing.
+  3. Ripped - Images with ripe mature cocoa pods.
+  4. Spoilt - Images with Spoilt cocoa pods.
+<img src="https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/resources/images/cocoa.jpg"/>
+
+# Quick Links
+
+
