@@ -25,7 +25,7 @@ For the object detection task, participants will develop models to detect variou
 <img src="https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/resources/images/cocoa.jpg"/>
 
 # Quick Links  
-1. [Data](https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/guides/Datasets.md)
+1. [Datasets](https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/guides/Datasets.md)
 2. [Cocoa Object Detection Tutorial](https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/tutorial/Cocoa_Object_Detection_with_YOLO8.ipynb)
 3. [Maize Classfication Tutorial](https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/tutorial/Maize_Disease_Classfication_with_Tensorflow_Keras_.ipynb)
 4. [Making a Submission](https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/guides/Submissions.md)
