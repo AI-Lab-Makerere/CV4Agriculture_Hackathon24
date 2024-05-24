@@ -17,3 +17,5 @@ However, your team will receive a bonus cash prize for the other task.
    - Write a short diocumentation describing how the code was run. This should be clear about how to specify the paths to the data required to run the code.
    - Zip your code in one folder for submission.
    - The zipped file must be named as the team name e.g. if your team is **TeamA**, the submitted file must be named **TeamA.zip/rar** and must be submitted by an email of a registered team meamber.
+   - These submissions must be made by Saturday 25th May 2024 at 10:00pm.
+   - There will be a reward for outstanding submissions so make your best presentation.
