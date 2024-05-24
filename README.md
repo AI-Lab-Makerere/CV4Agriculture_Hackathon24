@@ -30,5 +30,6 @@ For the object detection task, participants will develop models to detect variou
 3. [Maize Classfication Tutorial](https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/tutorial/Maize_Disease_Classfication_with_Tensorflow_Keras_.ipynb)
 4. [Making a Submission](https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/guides/Submissions.md)
 5. [Frequently Asked Questions](https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/guides/FAQs.md)
+6. [Prizes](https://github.com/AI-Lab-Makerere/CV4Agriculture_Hackathon24/blob/main/guides/Prizes.md)
 
 
